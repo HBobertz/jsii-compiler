@@ -16,6 +16,8 @@ import { enabledWarnings } from './warnings';
 
 const warningTypes = Object.keys(enabledWarnings);
 
+// asdfasdfasd
+
 (async () => {
   await emitSupportPolicyInformation();
 
